@@ -1,0 +1,6 @@
+D:\Study\SPP\AttributesLib\AttributesLib\bin\Debug\AttributesLib.dll
+D:\Study\SPP\AttributesLib\AttributesLib\bin\Debug\AttributesLib.pdb
+D:\Study\SPP\AttributesLib\AttributesLib\obj\Debug\AttributesLib.csprojAssemblyReference.cache
+D:\Study\SPP\AttributesLib\AttributesLib\obj\Debug\AttributesLib.csproj.CoreCompileInputs.cache
+D:\Study\SPP\AttributesLib\AttributesLib\obj\Debug\AttributesLib.dll
+D:\Study\SPP\AttributesLib\AttributesLib\obj\Debug\AttributesLib.pdb
